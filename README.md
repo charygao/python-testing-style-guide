@@ -1,3 +1,5 @@
+This document has moved to [Confluence](https://intranet.oreilly.com/confluence/display/CD/Python+Testing+Guide).
+
 python-testing-style-guide
 ==========================
 
