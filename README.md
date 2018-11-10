@@ -122,7 +122,7 @@ This results in a message which isn't very helpful in diagnosing the test failur
 
 ## Prefer fewer asserts per test
 
-Read through the "One Assert per Test" section of  Robert Martin's [_Clean Code_](https://www.safaribooksonline.com/library/view/clean-code/9780136083238/ch09.html#ch09lev1sec4). In fact, read the entire chapter :wink:
+Read through the "One Assert per Test" section of  Robert Martin's [_Clean Code_](https://www.safaribooksonline.com/library/view/clean-code/9780136083238/chapter09.html#ch9lev1sec4). In fact, read the entire chapter :wink:
 
 # Structure
 
@@ -368,7 +368,7 @@ characters.
 
 # Resources
 
-* General, but excellent guidance on writing unit tests (language agnostic): [Ch. 9 "Unit Tests" from _Clean Code_](https://www.safaribooksonline.com/library/view/clean-code/9780136083238/ch09.html)
+* General, but excellent guidance on writing unit tests (language agnostic): [Ch. 9 "Unit Tests" from _Clean Code_](https://www.safaribooksonline.com/library/view/clean-code/9780136083238/chapter09.html)
 * A gentle introduction to the _feel_ of testing (Django focus): [Test-Driven Web Development with Python](http://www.safariflow.com/library/view/Test-Driven+Web+Development+with+Python/9781449365141/)
 * The classic description of TDD (Java examples, oh well): [Test Driven Development: By Example](http://www.safariflow.com/library/view/Test+Driven+Development%3A+By+Example/0321146530/)
 * Another classic focused on explaining how testing works in the real world (more Java examples, oh well): [Test Driven Development: By Example](http://my.safaribooksonline.com/book/software-engineering-and-development/software-testing/0131016490)
